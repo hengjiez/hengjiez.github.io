@@ -4,14 +4,10 @@ layout: homepage
 
 ## About Me
 
-I am a fifth-year Ph.D. student in the <a href="https://theory.cs.columbia.edu/" rel="noopener"> Theory Group </a> at Columbia University. I am fortunate to be co-advised by <a href="https://www.cs.columbia.edu/~andoni/" rel="noopener"> Alexandr Andoni</a>, <a href="https://www.cs.columbia.edu/~omri/" rel="noopener"> Omri Weinstein</a>, and <a href="https://joshalman.com//" rel="noopener"> Josh Alman</a>.
+I am a full-time researcher/engineer at Huawei's theory lab. Before joining Huawei, I completed my Ph.D. from Columbia University, where I was co-advised by <a href="https://www.cs.columbia.edu/~andoni/" rel="noopener"> Alexandr Andoni</a>, <a href="https://www.cs.columbia.edu/~omri/" rel="noopener"> Omri Weinstein</a>, and <a href="https://joshalman.com//" rel="noopener"> Josh Alman</a>.
 
 I graduated from Yao Class at Tsinghua University in June 2019. In spring semester 2018, I visited University of Michigan and worked with <a href="https://web.eecs.umich.edu/~pettie/" rel="noopener"> Seth Pettie</a>.
 
-
-## Research Interests
-
-I work on graph algorithms, approximation algorithms, and algorithms in high-dimensional geometry. Recently, I focus on using algebraic tools to speed up algorithms.
 
 <!-- ## News
 
