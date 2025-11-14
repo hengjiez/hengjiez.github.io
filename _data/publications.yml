@@ -1,0 +1,36 @@
+main:
+    
+  - title: "Sub-quadratic (1+eps)-approximate Euclidean Spanners, with Applications"
+    authors: Alexandr Andoni, <strong>Hengjie Zhang</strong>
+    conference_short: FOCS23
+    conference: 64th Annual IEEE Symposium on Foundations of Computer Science, 2023.
+    pdf: https://arxiv.org/pdf/2310.05315.pdf
+    
+  - title: "Generalizations of Matrix Multiplication can solve the Light Bulb Problem"
+    authors: Josh Alman, <strong>Hengjie Zhang</strong>
+    conference_short: FOCS23
+    conference: 64th Annual IEEE Symposium on Foundations of Computer Science, 2023.
+    #pdf: https://dl.acm.org/doi/pdf/10.1145/3446330
+  - title: "Space-Efficient Interior Point Method, with applications to Linear Programming and Maximum Weight Bipartite Matching"
+    authors: S. Cliff Liu, Zhao Song, <strong>Hengjie Zhang</strong>, Lichen Zhang, Tianyi Zhou
+    conference_short: ICALP23
+    conference: 2023 International Colloquium on Automata, Languages and Programming.
+    pdf: https://arxiv.org/pdf/2009.06106.pdf
+    
+  - title: "Faster Dynamic Matrix Inverse for Faster LPs"
+    authors: Shunhua Jiang, Zhao Song, Omri Weinstein, <strong>Hengjie Zhang</strong>
+    conference_short: STOC21
+    conference: 53rd Annual ACM SIGACT Symposium on Theory of Computing, 2021.
+    pdf: https://arxiv.org/abs/2004.07470
+    #code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+    #page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    #bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    #notes: Oral Presentation
+    #image: ./assets/img/teaser_example.png
+
+  - title: "Near-optimal Distributed Triangle Enumeration via Expander Decompositions"
+    authors: Yi-Jun Chang, Seth Pettie, Thatchaphol Saranurak, <strong>Hengjie Zhang</strong>
+    conference_short: JACM
+    conference: Journal of the ACM, Volume 68, Issue 3, Article No.21, pp 1-36.
+    pdf: https://dl.acm.org/doi/pdf/10.1145/3446330
+    
